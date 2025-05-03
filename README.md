@@ -2,7 +2,7 @@
 
 A complete data science project analyzing the global and India-specific impact of COVID-19 using real-world data. This project explores infection and recovery trends, builds predictive models, and visualizes insights with interactive charts.
 
-![COVID-19 Trend](https://i.snipboard.io/Fu1BIl.jpg)
+![COVID-19 Trend](https://i.snipboard.io/35Qpij.jpg)
 
 ---
 
